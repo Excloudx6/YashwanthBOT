@@ -1,6 +1,6 @@
 # YashwanthBOT
 
-YashwanthBOT is a discord bot framework that is mainly focused on economy, however has entertainment commands too
+YashwanthBOT is a single-server, customizable, Discord-bot framework created by bebe-morse
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ py -3 -m pip install -U discord.py
 
 ### Installing
 
-There are a few 
+There are a few things you must do before you can run this bot in your server.
 
 ```
 Give the example
@@ -60,30 +60,16 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [discord.py](https://github.com/Rapptz/discord.py) - The API wrapper used
+* [python](https://www.python.org/)
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **bebe-morse** - *author of the code* - [bebe-morse](https://github.com/bebe-morse)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
