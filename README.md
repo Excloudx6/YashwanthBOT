@@ -4,11 +4,11 @@ YashwanthBOT is a discord bot framework that is mainly focused on economy, howev
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To get started running this bot, you will need Python 3.5+. You can download it [here](https://www.python.org/downloads/)
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Firstly, you will need to install discord.py, which this project utilizes
 
 ```
 # Linux/OS X
@@ -20,9 +20,7 @@ py -3 -m pip install -U discord.py
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+There are a few 
 
 ```
 Give the example
