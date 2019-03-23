@@ -8,7 +8,7 @@ To get started running this bot, you will need Python 3.5+. You can download it 
 
 ### Prerequisites
 
-Firstly, you will need to install discord.py, which this project utilizes
+Firstly, you will need to install discord.py, which is the API wrapper for discord that this project utilizes
 
 ```
 # Linux/OS X
@@ -21,18 +21,9 @@ py -3 -m pip install -U discord.py
 ### Installing
 
 There are a few things you must do before you can run this bot in your server.
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Firstly, create a project folder. You may name it anything you like.
+Next, download `setup.py` and run it in that folder.
+You may now download `source.py` and configure it in `settings.ini`
 
 ## Running the tests
 
