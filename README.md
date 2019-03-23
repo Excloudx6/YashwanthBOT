@@ -1,7 +1,7 @@
 # YashwanthBOT
 
 YashwanthBOT is a single-server, customizable, Discord-bot framework created by bebe-morse
-![](https://i.pinimg.com/originals/61/d7/5a/61d75a3cbc910c8e62194b3392047ad9.jpg)
+![](imgs/discordwalrus.png)
 
 ## Getting Started
 
