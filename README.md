@@ -40,6 +40,7 @@ Now you should be able to run `source.py`. Please contact bebe morse#9433 if you
 * **[bebe-morse](https://github.com/bebe-morse)** - *author of the code* 
 
 ## Credits
+Many thanks to the authors of the lists which were used within YashwanthBOT.
 * **[Swear List](https://github.com/RobertJGabriel/Google-profanity-words/blob/master/list.txt)** 
 * **[Trivia List](https://github.com/gurok/RogTrivia/blob/master/trivia%20questions.txt)** 
 * **[Anagram List](https://github.com/paritytech/wordlist/blob/master/res/wordlist.txt)** 
