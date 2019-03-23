@@ -23,31 +23,11 @@ py -3 -m pip install -U discord.py
 There are a few things you must do before you can run this bot in your server.
 Firstly, create a project folder. You may name it anything you like.
 Next, download [`setup.py`](https://github.com/bebe-morse/YashwanthBOT/blob/master/setup.py) and run it in that folder.
-You may now download `source.py` and configure it in `settings.ini`
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+You may now download `source.py` and configure it in `settings.ini`. Make sure to set the token to your discord bot otherwise it will not run!
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Now you should be able to run `source.py`. Please contact bebe morse#9433 if you come across any issues
 
 ## Built With
 
