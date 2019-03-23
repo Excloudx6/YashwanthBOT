@@ -69,11 +69,11 @@ Add additional notes about how to deploy this on a live system
 * **[bebe-morse](https://github.com/bebe-morse)** - *author of the code* 
 
 ## Credits
-* **[Swear List](https://github.com/RobertJGabriel/Google-profanity-words/blob/master/list.txt)** *
-* **[Trivia List](https://github.com/gurok/RogTrivia/blob/master/trivia%20questions.txt)** *
-* **[Anagram List](https://github.com/paritytech/wordlist/blob/master/res/wordlist.txt)** *
-* **[Facts List](https://github.com/assaf/dailyhi/blob/master/facts.txt)** *
-* **[Food List](https://github.com/dantasse/swot_perderder/blob/master/food_image_urls.txt)** *
+* **[Swear List](https://github.com/RobertJGabriel/Google-profanity-words/blob/master/list.txt)** 
+* **[Trivia List](https://github.com/gurok/RogTrivia/blob/master/trivia%20questions.txt)** 
+* **[Anagram List](https://github.com/paritytech/wordlist/blob/master/res/wordlist.txt)** 
+* **[Facts List](https://github.com/assaf/dailyhi/blob/master/facts.txt)** 
+* **[Food List](https://github.com/dantasse/swot_perderder/blob/master/food_image_urls.txt)** 
 * **** *
 
 
