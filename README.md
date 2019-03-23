@@ -66,7 +66,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **bebe-morse** - *author of the code* - [bebe-morse](https://github.com/bebe-morse)
+* **[bebe-morse](https://github.com/bebe-morse)** - *author of the code* 
 
 ## License
 
