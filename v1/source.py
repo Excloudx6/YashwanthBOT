@@ -352,12 +352,12 @@ async def on_message(message):
                                 else:
                                     await add_data(medium_milestone, winnerid, "", PlayerData.Coins.value)
                                     await bot.send_message(destination=bot.get_channel(counting_milestones_id),
-                                                           content="<@{}> has reached a large milestone of {}! :tada: They had a {}% chance of getting this milestone"
+                                                           content="<@{}> has reached a medium milestone of {}! :tada: They had a {}% chance of getting this milestone"
                                                                    ":tada: They have been awarded {} {}".format(winnerid, onetosend, percent, medium_milestone, currency_name))
                             else:
                                 await add_data(small_milestone, winnerid, "", PlayerData.Coins.value)
                                 await bot.send_message(destination=bot.get_channel(counting_milestones_id),
-                                                       content="<@{}> has reached a large milestone of {}! :tada: They had a {}% chance of getting this milestone"
+                                                       content="<@{}> has reached a small milestone of {}! :tada: They had a {}% chance of getting this milestone"
                                                                    ":tada: They have been awarded {} {}".format(winnerid, onetosend, percent, small_milestone, currency_name))
                             milestone_dict = {}
 
