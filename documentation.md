@@ -71,6 +71,8 @@ Gives you a leaderboard of the top counters
 Gives you a leaderboard of the most reputable people
 ### iv) -loanlb
 Gives you a leaderboard of people with the most debt
+### v) -negreplb
+Gives you a leaderboard of the least reputable people
 ## 4. Other
 ### i) -rep arg1
 Provide a user as the argument to give them a reputation point.
