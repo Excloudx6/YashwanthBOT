@@ -7,6 +7,8 @@ def set_currency(abrv, name):
     currency_abrv=abrv
     currency_name=name
 
+    
+    
 def leader_board(ctx, player_stats, p1):
     tstr = ""
     embeded = discord.embeds.Embed()
@@ -43,3 +45,18 @@ def leader_board(ctx, player_stats, p1):
     embeded.add_field(name="Your rank", value="Rank {}. You have {:,.0f} {}".format(pos, player_stats[
         ctx.message.author.id][method_type], ending), inline=False)
     return embeded
+
+
+
+def return_parsed_floated_list(the_list):
+    for i in range(len(the_list)):
+        try:
+            the_list[i] = float(the_list[i])
+        except:
+            pass
+    for i in range(len(the_list)):
+        try:
+            the_list[i] = parse_config_params(the_list[i])
+        except:
+            pass
+    return the_list
