@@ -43,20 +43,6 @@ from discord.utils import get
 cfg = configparser.ConfigParser()
 cfg.read("config.ini")
 
-
-def return_parsed_floated_list(the_list):
-    for i in range(len(the_list)):
-        try:
-            the_list[i] = float(the_list[i])
-        except:
-            pass
-    for i in range(len(the_list)):
-        try:
-            the_list[i] = parse_config_params(the_list[i])
-        except:
-            pass
-    return the_list
-
 def map_sections(section, parse_num):
     options, options_dict = cfg.options(section), {}
     for option in options:
