@@ -1,1 +1,1 @@
-This is V.1 of YashwanthBOT
+This is V1 of YashwanthBOT
