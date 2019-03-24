@@ -28,7 +28,7 @@ You may now download [`source.py`](https://github.com/bebe-morse/YashwanthBOT/bl
 
 ## Deployment
 
-Now you should be able to run `source.py`. Please contact bebe morse#9433 if you come across any issues
+Now you should be able to run [`source.py`](https://github.com/bebe-morse/YashwanthBOT/blob/master/v1/source.py). Please contact bebe morse#9433 if you come across any issues
 
 ## Built With
 
